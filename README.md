@@ -1,6 +1,6 @@
 # 🧪 Solid-State Chemistry Analysis
 
-This project demonstrates basic data analysis and visualization of X-ray diffraction (XRD) data using Python. It is designed to showcase coding proficiency, good documentation practices, and interest in computational chemistry.
+This project demonstrates basic data analysis and visualization of X-ray diffraction (XRD) data using Python. It is designed to showcase coding proficiency, good documentation practices, and interest in solid-state chemistry.
 
 ---
 
